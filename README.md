@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-WhatsApp Rest API is server api that used in Telegram . This server manage all function and endpoint in telegram app such as create, add , update and delete message. Authentication about login, register and getting profile info also edit profile as well.
+Sleep Call Rest API is server api that used in Sleep Call App . This server manage all function and endpoint in telegram app such as create, add , update and delete message. Authentication about login, register and getting profile info also edit profile as well.
 
 ### Built With
 
@@ -120,7 +120,7 @@ Contributions are what make the open source community such an amazing place to b
 ## Related Project
 :rocket: [`Backend WhatsApp`](https://github.com/Iqbalapredo/BE-WhataApp)
 
-:rocket: [`Frontend WhatsApp`](https://github.com/Iqbalapredo/FE-WhatsApp)
+:rocket: [`Frontend WhatsApp`](https://github.com/Iqbalapredo/FE-SleepCall-App)
 
 :rocket: [`Demo WhatsApp`](https://be-whataapp-production.up.railway.app/)
 
