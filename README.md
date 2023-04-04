@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Sleep Call Rest API is server api that used in Sleep Call App . This server manage all function and endpoint in telegram app such as create, add , update and delete message. Authentication about login, register and getting profile info also edit profile as well.
+Sleep Call Rest API is server api that used in Sleep Call App . This server manage all function and endpoint in  app such Sleep Call as create, add , update and delete message. Authentication about login, register and getting profile info also edit profile as well.
 
 ### Built With
 
